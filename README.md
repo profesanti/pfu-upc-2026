@@ -69,7 +69,7 @@ Para ser admitidas en el proceso de selección, las personas solicitantes deben 
 A través de la sede electrónica de la UPC ([enlace original](https://seuelectronica.upc.edu/ca/tots-els-tramits/convocatoria-ajuts-formacio-professorat-universitari-FPU)), cumplimentando la instancia “Convocatoria de ayudas de formación de profesorado universitario (FPU-UPC 2026) para la realización de la tesis doctoral en la UPC”.
 
 - Las personas candidatas solo podrán presentar una única solicitud.
-- Cada director/a de tesis solo podrá constar como tal en una sola solicitud y deberá firmar un documento de aval, que la persona candidata adjuntará al formulario: [`fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx`](./fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx).
+- Cada director/a de tesis solo podrá constar como tal en una sola solicitud y deberá firmar un documento de aval, que la persona candidata adjuntará al formulario: [`fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx`](./fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx).
 - En la solicitud deberá indicarse el departamento, instituto o cátedra UNESCO por el que se presenta, escogido entre las 41 opciones disponibles.
 
 Para poder disfrutar de la ayuda, las personas seleccionadas deberán estar en posesión de las titulaciones que dan acceso al doctorado en el momento de formalizar el contrato.
@@ -78,10 +78,10 @@ Documentos de entrega **obligatoria** junto a la solicitud, siempre en formato P
 
 - Currículum vitae de la persona candidata y currículum vitae del/de la director/a de tesis, si procede.
 - Copia de la carta de admisión al programa de doctorado o, en su defecto, carta de admisión provisional.
-- Documento de aval del/de la director/a de tesis de la persona solicitante (usar: [`fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx`](./fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx)). Cada supervisor/a solo puede avalar una solicitud.
+- Documento de aval del/de la director/a de tesis de la persona solicitante (usar: [`fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx`](./fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx)). Cada supervisor/a solo puede avalar una solicitud.
 - Copia de certificados académicos de titulaciones no cursadas en la UPC, si procede. Debe constar la fecha de obtención del título y la nota media. En estudios realizados fuera del sistema universitario español, si el expediente no incluye la descripción del sistema de evaluación de la universidad, debe adjuntarse documentación acreditativa indicando nota máxima y mínima, y nota mínima de aprobado.
 - Copia del documento de equivalencia de nota media para estudios realizados en centros extranjeros, expedido en el portal del Ministerio: https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/ca_ES.
-- **Importante:** Para que departamentos/institutos/cátedras UNESCO puedan evaluar las solicitudes según sus criterios de priorización relacionados con el Anexo B.2), las personas solicitantes deben completar el documento anexo/plan de trabajo y subirlo en PDF en el apartado correspondiente de la sede electrónica: [`fpu-upc-2026/document-annex_ajuts-fpu-upc_2026.docx`](./fpu-upc-2026/document-annex_ajuts-fpu-upc_2026.docx).
+- **Importante:** Para que departamentos/institutos/cátedras UNESCO puedan evaluar las solicitudes según sus criterios de priorización relacionados con el Anexo B.2), las personas solicitantes deben completar el documento anexo/plan de trabajo y subirlo en PDF en el apartado correspondiente de la sede electrónica: [`fpu-upc-2026/work-plan-template-fpu-upc-2026.docx`](./fpu-upc-2026/work-plan-template-fpu-upc-2026.docx).
 - Copia del certificado de catalán C1 MCER. En caso de no disponer de él, se puede solicitar exención temporal mediante el formulario normalizado de solicitud.
 
 Documento adicional a aportar:
@@ -92,7 +92,7 @@ Documento adicional a aportar:
 
 Los departamentos, institutos y cátedras UNESCO deben enviar los criterios que aplicarán para las ayudas que tienen asignadas.
 
-Las respuestas deben enviarse a <captaciotalent.sp@upc.edu> antes del 30/01/2026, usando la plantilla disponible aquí: [`fpu-upc-2026/criteris-per-fpu-upc_2026.docx`](./fpu-upc-2026/criteris-per-fpu-upc_2026.docx).
+Las respuestas deben enviarse a <captaciotalent.sp@upc.edu> antes del 30/01/2026, usando la plantilla disponible aquí: [`fpu-upc-2026/department-prioritization-template-fpu-upc-2026.docx`](./fpu-upc-2026/department-prioritization-template-fpu-upc-2026.docx).
 
 - Distribución de ayudas entre departamentos/institutos/cátedras y especificación de cuáles corresponden a 1.ª y 2.ª edición: [`fpu-upc-2026/no-ajuts.pdf`](./fpu-upc-2026/no-ajuts.pdf).
 - Criterios de priorización por departamento/instituto/cátedra (catalán): [`fpu-upc-2026/criteris-davaluacio.pdf`](./fpu-upc-2026/criteris-davaluacio.pdf).
@@ -101,8 +101,8 @@ Las respuestas deben enviarse a <captaciotalent.sp@upc.edu> antes del 30/01/2026
 
 Para personas directoras/candidatas que apliquen por el departamento de Matemáticas:
 
-- En el anexo de distribución (`no-ajuts.pdf`), **MAT (749) tiene 3 ayudas**, todas en la **1.ª edición**.
-- En el anexo de criterios (`criteris-davaluacio.pdf`), el apartado **“749 Matemàtiques (MAT)”** define las reglas de priorización del departamento.
+- En el anexo de distribución ([`fpu-upc-2026/no-ajuts.pdf`](./fpu-upc-2026/no-ajuts.pdf)), **MAT (749) tiene 3 ayudas**, todas en la **1.ª edición**.
+- En el anexo de criterios ([`fpu-upc-2026/criteris-davaluacio.pdf`](./fpu-upc-2026/criteris-davaluacio.pdf)), el apartado **“749 Matemàtiques (MAT)”** define las reglas de priorización del departamento.
 - La puntuación MAT se divide en:
   - **Apartado A (expediente académico): 50%**
   - **Apartado B (evaluación de comisión ad hoc del departamento): 50%**
@@ -118,17 +118,17 @@ Esto confirma que existe, en la práctica, una priorización interna por departa
 Para una solicitud por MAT, preparar al menos lo siguiente:
 
 **Candidatura**
-- Presentar la solicitud por la sede electrónica de la UPC (enlace oficial en la convocatoria).
-- CV en PDF (obligatorio). En la plantilla del anexo/plan de trabajo, incluir el apartado de currículum de la persona candidata (**máx. 3 páginas**).
-- Carta de admisión al doctorado (o admisión provisional).
-- Certificados académicos (y, para estudios extranjeros, equivalencia de nota y documentación del sistema de calificación).
-- Documento anexo/plan de trabajo completado y subido en PDF.
-- Certificado C1 de catalán (o solicitud de exención temporal, si aplica).
+- Presentar la solicitud por la sede electrónica de la UPC (ver convocatoria: [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf)).
+- CV en PDF (obligatorio). En la plantilla del plan de trabajo, incluir el apartado de currículum de la persona candidata (**máx. 3 páginas**): [`fpu-upc-2026/work-plan-template-fpu-upc-2026.docx`](./fpu-upc-2026/work-plan-template-fpu-upc-2026.docx).
+- Carta de admisión al doctorado (o admisión provisional), según los requisitos de la convocatoria: [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf).
+- Certificados académicos (y, para estudios extranjeros, equivalencia de nota y documentación del sistema de calificación); ver guía de equivalencias: [`fpu-upc-2026/instruccions_decl_equivalencies_upc.pdf`](./fpu-upc-2026/instruccions_decl_equivalencies_upc.pdf).
+- Documento del plan de trabajo completado y subido en PDF: [`fpu-upc-2026/work-plan-template-fpu-upc-2026.docx`](./fpu-upc-2026/work-plan-template-fpu-upc-2026.docx).
+- Certificado C1 de catalán (o solicitud de exención temporal, si aplica), según convocatoria: [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf).
 
 **Dirección de tesis (advisor)**
-- Firmar el documento oficial de aval (`aval-director-de-tesi-fpu-upc-2026.docx`) para esta candidatura.
-- Asegurar que la dirección de tesis aparece en una sola solicitud.
-- Aportar CV en PDF; para MAT conviene preparar una versión sólida en formato **CVA**, ya que el criterio MAT evalúa explícitamente el CVA de la dirección.
+- Firmar el documento oficial de aval para esta candidatura: [`fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx`](./fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx).
+- Asegurar que la dirección de tesis aparece en una sola solicitud (regla de la convocatoria): [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf).
+- Aportar CV en PDF; para MAT conviene preparar una versión sólida en formato **CVA**, ya que el criterio MAT evalúa explícitamente el CVA de la dirección (anexo de criterios): [`fpu-upc-2026/criteris-davaluacio.pdf`](./fpu-upc-2026/criteris-davaluacio.pdf).
 
 **Comprobaciones estratégicas MAT**
 - Verificar que la nota media ponderada de la candidatura sea competitiva y esté en/al menos el umbral MAT (criterio con mínimo 7/10).
@@ -149,8 +149,8 @@ Se anunciará próximamente.
 - Convocatoria (PDF en español): [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf)
 - Equivalencia de nota media (portal oficial): https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/ca_ES
 - Calendario provisional: [`fpu-upc-2026/calendari-provisional-fpu-upc-2026.pdf`](./fpu-upc-2026/calendari-provisional-fpu-upc-2026.pdf)
-- Documento de aval de dirección de tesis: [`fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx`](./fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx)
-- Documento anexo / Plan de trabajo: [`fpu-upc-2026/document-annex_ajuts-fpu-upc_2026.docx`](./fpu-upc-2026/document-annex_ajuts-fpu-upc_2026.docx)
+- Documento de aval de dirección de tesis: [`fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx`](./fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx)
+- Plantilla del plan de trabajo: [`fpu-upc-2026/work-plan-template-fpu-upc-2026.docx`](./fpu-upc-2026/work-plan-template-fpu-upc-2026.docx)
 - Guía para elegir la escala de conversión de notas (catalán): [`fpu-upc-2026/instruccions_decl_equivalencies_upc.pdf`](./fpu-upc-2026/instruccions_decl_equivalencies_upc.pdf)
 - Marco de retribución docente (acuerdo Consejo de Gobierno UPC): [`fpu-upc-2026/cg_2024_05_12-marc-per-a-la-realitzacio-voluntaria-i-cobrament-dhores-de-docencia-per-part-del-personal-investigador-en-formacio.pdf`](./fpu-upc-2026/cg_2024_05_12-marc-per-a-la-realitzacio-voluntaria-i-cobrament-dhores-de-docencia-per-part-del-personal-investigador-en-formacio.pdf)
 

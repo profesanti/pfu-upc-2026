@@ -69,7 +69,7 @@ To be admitted to the selection process, applicants must meet the following requ
 Through the UPC electronic headquarters ([original link](https://seuelectronica.upc.edu/ca/tots-els-tramits/convocatoria-ajuts-formacio-professorat-universitari-FPU)), by completing the application form “Call for university faculty training grants (FPU-UPC 2026) for the completion of a doctoral thesis at the UPC”.
 
 - Applicants may submit only one application.
-- Each thesis supervisor may appear in only one application and must sign an endorsement document, which the applicant must attach to the application form: [`fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx`](./fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx).
+- Each thesis supervisor may appear in only one application and must sign an endorsement document, which the applicant must attach to the application form: [`fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx`](./fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx).
 - The application must indicate the department, institute or UNESCO Chair under which the application is submitted, chosen from among the 41 available options.
 
 To benefit from the grant, successful applicants must hold the qualifications granting access to doctoral studies at the time of formalisation of the contract.
@@ -78,10 +78,10 @@ Documents **mandatory** to be submitted with the application form, always in PDF
 
 - Curriculum Vitae of the applicant, and Curriculum vitae of the thesis supervisor, if applicable.
 - Copy of the doctoral programme admission letter or, where applicable, provisional admission letter.
-- Endorsement document from the applicant’s doctoral thesis supervisor (use: [`fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx`](./fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx)). Each supervisor may endorse only one application.
+- Endorsement document from the applicant’s doctoral thesis supervisor (use: [`fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx`](./fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx)). Each supervisor may endorse only one application.
 - Copy of academic transcripts for degrees not completed at the UPC, where applicable. Including the date of degree completion and the grade point average. In the case of studies completed outside the Spanish university system, if the academic transcript does not include a description of the university’s grading system, documentation certifying this system must be attached, indicating the maximum and minimum grades, and the minimum passing grade.
 - Copy of the equivalence certificate of the average grade for degrees obtained at foreign institutions, issued through the Ministry portal: https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/ca_ES.
-- **Important:** In order for the departments/institutes/UNESCO chairs to evaluate the applications they receive, according to their prioritization criteria related to Annex B.2), applicants must complete the annexed document/work plan and upload it to the corresponding section in the online application portal (PDF format): [`fpu-upc-2026/document-annex_ajuts-fpu-upc_2026.docx`](./fpu-upc-2026/document-annex_ajuts-fpu-upc_2026.docx).
+- **Important:** In order for the departments/institutes/UNESCO chairs to evaluate the applications they receive, according to their prioritization criteria related to Annex B.2), applicants must complete the annexed document/work plan and upload it to the corresponding section in the online application portal (PDF format): [`fpu-upc-2026/work-plan-template-fpu-upc-2026.docx`](./fpu-upc-2026/work-plan-template-fpu-upc-2026.docx).
 - Copy of the certificate accrediting sufficient knowledge of Catalan at C1 CEFR level. Applicants without this certificate may request a temporary exemption via the standardised application form.
 
 Additional document to be submitted:
@@ -92,7 +92,7 @@ Additional document to be submitted:
 
 Departments, institutes and UNESCO Chairs must submit the criteria they will apply for the grants allocated to them.
 
-Responses must be sent to <captaciotalent.sp@upc.edu> by 30/01/2026, using the template provided here: [`fpu-upc-2026/criteris-per-fpu-upc_2026.docx`](./fpu-upc-2026/criteris-per-fpu-upc_2026.docx).
+Responses must be sent to <captaciotalent.sp@upc.edu> by 30/01/2026, using the template provided here: [`fpu-upc-2026/department-prioritization-template-fpu-upc-2026.docx`](./fpu-upc-2026/department-prioritization-template-fpu-upc-2026.docx).
 
 - Distribution of the grants among the departments/institutes/chairs, and specification of which are for the 1st edition and which are for the 2nd edition: [`fpu-upc-2026/no-ajuts.pdf`](./fpu-upc-2026/no-ajuts.pdf).
 - Prioritisation criteria for applications, specified by each department/institute/chair (Catalan): [`fpu-upc-2026/criteris-davaluacio.pdf`](./fpu-upc-2026/criteris-davaluacio.pdf).
@@ -101,8 +101,8 @@ Responses must be sent to <captaciotalent.sp@upc.edu> by 30/01/2026, using the t
 
 For advisors/candidates applying through the Mathematics department:
 
-- In the grant distribution annex (`no-ajuts.pdf`), **MAT (749) has 3 grants**, all in the **1st edition**.
-- In the prioritisation criteria annex (`criteris-davaluacio.pdf`), section **“749 Matemàtiques (MAT)”** defines the department-level rules.
+- In the grant distribution annex ([`fpu-upc-2026/no-ajuts.pdf`](./fpu-upc-2026/no-ajuts.pdf)), **MAT (749) has 3 grants**, all in the **1st edition**.
+- In the prioritisation criteria annex ([`fpu-upc-2026/criteris-davaluacio.pdf`](./fpu-upc-2026/criteris-davaluacio.pdf)), section **“749 Matemàtiques (MAT)”** defines the department-level rules.
 - MAT scoring is split into:
   - **Section A (academic record): 50%**
   - **Section B (department ad hoc committee evaluation): 50%**
@@ -118,17 +118,17 @@ This confirms there is effectively a department-level “pre-call”/internal pr
 For a MAT-based application, prepare at least the following:
 
 **Candidate**
-- Submit the application through the UPC e-headquarters form (official link in the call).
-- CV in PDF (mandatory). In the annex/work plan template, include the candidate curriculum section (**max 3 pages**).
-- Doctoral admission (or provisional admission) letter.
-- Academic transcripts (and, for foreign studies, grade-equivalence and grading-scale documentation).
-- Annex/work plan document completed and uploaded in PDF.
-- Catalan C1 certificate (or temporary exemption request, if applicable).
+- Submit the application through the UPC e-headquarters form (see call details: [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf)).
+- CV in PDF (mandatory). In the work-plan template, include the candidate curriculum section (**max 3 pages**): [`fpu-upc-2026/work-plan-template-fpu-upc-2026.docx`](./fpu-upc-2026/work-plan-template-fpu-upc-2026.docx).
+- Doctoral admission (or provisional admission) letter, as required in the call: [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf).
+- Academic transcripts (and, for foreign studies, grade-equivalence and grading-scale documentation); see grade-equivalence guide: [`fpu-upc-2026/instruccions_decl_equivalencies_upc.pdf`](./fpu-upc-2026/instruccions_decl_equivalencies_upc.pdf).
+- Work-plan document completed and uploaded in PDF: [`fpu-upc-2026/work-plan-template-fpu-upc-2026.docx`](./fpu-upc-2026/work-plan-template-fpu-upc-2026.docx).
+- Catalan C1 certificate (or temporary exemption request, if applicable), per call requirements: [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf).
 
 **Advisor (thesis supervisor)**
-- Sign the official endorsement document (`aval-director-de-tesi-fpu-upc-2026.docx`) for this application.
-- Ensure the supervisor appears in only one application.
-- Provide supervisor CV in PDF; for MAT evaluation, prepare a strong **CVA-style** version because MAT criteria explicitly assess the supervisor CVA.
+- Sign the official endorsement document for this application: [`fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx`](./fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx).
+- Ensure the supervisor appears in only one application (call rule): [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf).
+- Provide supervisor CV in PDF; for MAT evaluation, prepare a strong **CVA-style** version because MAT criteria explicitly assess the supervisor CVA (criteria annex): [`fpu-upc-2026/criteris-davaluacio.pdf`](./fpu-upc-2026/criteris-davaluacio.pdf).
 
 **MAT-specific strategy checks**
 - Verify candidate weighted grade is competitive and at/above the MAT threshold (criterion includes minimum 7/10).
@@ -149,8 +149,8 @@ To be announced shortly.
 - Call for applications (Spanish PDF): [`fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf`](./fpu-upc-2026/convocatoria-fpu-upc-2026_es.pdf)
 - Average grade equivalence (official portal): https://universidades.sede.gob.es/pagina/index/directorio/Equivalencia_notas_medias/language/ca_ES
 - Proposed calendar: [`fpu-upc-2026/calendari-provisional-fpu-upc-2026.pdf`](./fpu-upc-2026/calendari-provisional-fpu-upc-2026.pdf)
-- Thesis supervisor endorsement document: [`fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx`](./fpu-upc-2026/aval-director-de-tesi-fpu-upc-2026.docx)
-- Annex document / Work Plan: [`fpu-upc-2026/document-annex_ajuts-fpu-upc_2026.docx`](./fpu-upc-2026/document-annex_ajuts-fpu-upc_2026.docx)
+- Thesis supervisor endorsement document: [`fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx`](./fpu-upc-2026/thesis-supervisor-endorsement-fpu-upc-2026.docx)
+- Work plan template: [`fpu-upc-2026/work-plan-template-fpu-upc-2026.docx`](./fpu-upc-2026/work-plan-template-fpu-upc-2026.docx)
 - Guide for selecting the grade conversion scale (Catalan): [`fpu-upc-2026/instruccions_decl_equivalencies_upc.pdf`](./fpu-upc-2026/instruccions_decl_equivalencies_upc.pdf)
 - Teaching remuneration framework (UPC Governing Council agreement): [`fpu-upc-2026/cg_2024_05_12-marc-per-a-la-realitzacio-voluntaria-i-cobrament-dhores-de-docencia-per-part-del-personal-investigador-en-formacio.pdf`](./fpu-upc-2026/cg_2024_05_12-marc-per-a-la-realitzacio-voluntaria-i-cobrament-dhores-de-docencia-per-part-del-personal-investigador-en-formacio.pdf)
 
